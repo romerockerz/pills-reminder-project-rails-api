@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  relationship: MyString
+  d_name: MyString
+  d_email: MyString
+  d_contact: MyString
+  d_blood_group: MyString
+  d_date_of_birth: 2020-10-03
+  weight: MyString
+  height: MyString
+  user: one
+
+two:
+  relationship: MyString
+  d_name: MyString
+  d_email: MyString
+  d_contact: MyString
+  d_blood_group: MyString
+  d_date_of_birth: 2020-10-03
+  weight: MyString
+  height: MyString
+  user: two
